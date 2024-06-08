@@ -1,9 +1,6 @@
 'use client'
 
 
-
-
-
 const Button = ({ text, onClick, className }) => {
     return (
       <button
